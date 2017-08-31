@@ -11,7 +11,7 @@ See http://docs.platformio.org/en/latest/quickstart.html for guide on how to bui
 
 > platformio lib update
 
-> platformio run -v --target upload
+> platformio run --target upload
 
 Confirm device is working:
 > platformio device monitor -b 115200
